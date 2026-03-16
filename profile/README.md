@@ -10,7 +10,7 @@ Created and maintained by Tim H.
 
 ## Featured Repositories
 
-- `break-the-chains` — official archive for *Break The Chains*
+- `BreakTheChains-OffKeyVibes` — official archive for *Break The Chains*
 - `offkeyvibes-brand-assets` — logos, banners, profile images, covers, and promotional graphics
 
 ## Rights
