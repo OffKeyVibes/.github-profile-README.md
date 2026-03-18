@@ -1,6 +1,6 @@
 # OffKeyVibes
 
-![OffKeyVibes Banner](https://raw.githubusercontent.com/OffKeyVibes/offkeyvibes-brand-assets/main/banners/platform-specific/x/offkeyvibes-banner-x-final.png)
+[![OffKeyVibes Banner](https://raw.githubusercontent.com/OffKeyVibes/offkeyvibes-brand-assets/main/banners/platform-specific/x/offkeyvibes-banner-x-final.png)](https://github.com/OffKeyVibes)
 
 Original music, lyrics, audio archives, and branding by OffKeyVibes.
 
@@ -8,10 +8,17 @@ OffKeyVibes is the official archive for original songs, lyric collections, cover
 
 Created and maintained by Tim H.
 
-## Featured Repositories
+## Official Brand Assets
 
-- `BreakTheChains-OffKeyVibes` — official archive for *Break The Chains*
-- `offkeyvibes-brand-assets` — logos, banners, profile images, covers, and promotional graphics
+- [`offkeyvibes-brand-assets`](https://github.com/OffKeyVibes/offkeyvibes-brand-assets) — logos, banners, profile images, covers, and promotional graphics
+
+## Featured Song Releases
+
+[![Break The Chains Banner](https://raw.githubusercontent.com/OffKeyVibes/BreakTheChains-OffKeyVibes/main/assets/break-the-chains-banner-cover.png)](https://github.com/OffKeyVibes/BreakTheChains-OffKeyVibes)
+
+- [`BreakTheChains-OffKeyVibes`](https://github.com/OffKeyVibes/BreakTheChains-OffKeyVibes) — official archive for *Break The Chains*
+
+More official song releases, lyric archives, and visual assets will be added here over time.
 
 ## Rights
 
